@@ -1,4 +1,4 @@
-# Capstone-3-Bank-Marketing-Campaign-for-Term-Deposits
+# Bank Marketing Campaign for Term Deposits
 # Bank Marketing Prediction
 
 📌 **Project Overview**  
